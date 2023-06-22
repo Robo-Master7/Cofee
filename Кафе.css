@@ -1,0 +1,34 @@
+.header{
+    background-color: #c2a886;
+    height:95px;
+}
+
+.logo{
+    position: relative;
+    background: url('https://ru.yougile.com/user-data/91d8ca0c-0009-4712-8d6c-02f0647bedd9/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%D1%8B%20%D0%BA%D0%BE%D1%84%D0%B5%D0%B5%D0%BD-PhotoRoom.png-PhotoRoom.png');
+    background-repeat:no-repeat; 
+    background-size: 100%;
+    width:155px;
+    height:155px;
+    bottom:21px;
+    left:75px;
+}
+
+.but{
+    position: relative;
+    background-color: #755b38;
+    padding:10px;
+    color:white;
+    font-size:20px;
+    width:70px;
+    bottom:128px;
+    left:1100px;
+}
+
+.phone{
+    position: relative;
+    color:white;
+    bottom:158px;
+    left:1250px;
+    font-size: 19.4px;
+}
