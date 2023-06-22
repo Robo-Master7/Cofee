@@ -1,0 +1,27 @@
+body{
+
+    background: -webkit-linear-gradient(90deg, #c2a886,#917e64,#755b38);
+    background: linear-gradient(90deg, #c2a886,#917e64,#755b38);
+}
+.footer{
+   display: flex;
+   text-align: center;
+   justify-content: center;
+}
+.end{
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+}
+.sale{
+justify-content: center;
+text-align: center;
+color: white;
+}
+.act{
+display: inline-flex;
+}
+.odin{
+    width: 400px;
+}
