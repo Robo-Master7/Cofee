@@ -1,3 +1,8 @@
+body{
+    background: -webkit-linear-gradient(90deg, #b49c7c,#917e64,#755b38);
+    background: linear-gradient(90deg, #b49c7c,#917e64,#755b38);
+}
+
 .header{
     background-color: #c2a886;
     height:95px;
@@ -31,4 +36,23 @@
     bottom:158px;
     left:1250px;
     font-size: 19.4px;
+}
+
+.FOTO{
+    position: relative;
+    background: url('https://shutniks.com/wp-content/uploads/2019/12/Devushka_s_chashkoy_20_06114016.jpg');
+    background-repeat:no-repeat; 
+    background-size: 100%;
+    width: 97%;
+    height:679px;
+    left:17.5px;
+    top:8px;
+}
+
+.zag1{
+    position: relative;
+    color:white;
+    font-size: 90px;
+    padding:20px;
+    top:278.5px;
 }
