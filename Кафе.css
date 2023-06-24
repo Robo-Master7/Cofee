@@ -88,3 +88,31 @@ body{
     top:136px;
     width: 740px;
 }
+
+.text2{
+    position:relative;
+    left:215px;
+    font-size: 37px;
+    top:49px;
+    width: 740px;
+}
+
+.foto2{
+    position: relative;
+    left:890px;
+    bottom:70px;
+}
+
+.foto3{
+    position: relative;
+    left:187px;
+    bottom:169px;
+}
+
+.text3{
+    position:relative;
+    left:369px;
+    font-size: 37px;
+    width: 740px;
+    bottom:40px;
+}
