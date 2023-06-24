@@ -56,3 +56,35 @@ body{
     padding:20px;
     top:278.5px;
 }
+
+.zag2{
+    position: relative;
+    top:39px;
+    left:30px;
+    font-size: 53px;
+    width: 90%;
+    padding-left: 1.25rem;
+}
+
+.zag2::before {
+    content: '';
+    position: absolute;
+    top: 8px;
+    left: 0;
+    width: 3px;
+    height: 60px;
+    background-color:#755b38;
+}
+
+.foto1{
+    position: relative;
+    left:200px;
+}
+
+.text1{
+    position:relative;
+    left:399px;
+    font-size: 37px;
+    top:136px;
+    width: 740px;
+}
