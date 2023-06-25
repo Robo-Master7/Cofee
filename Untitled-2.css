@@ -75,6 +75,53 @@ display: flex;
     padding: 0px;
     font-size: 40px;
 }
+.pred{
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
 
 
+
+
+
+
+.card {
+    display: block;
+    background-color: white;
+    text-decoration: none;
+  }
+  
+  .card-image img {
+    width: 100%;
+  }
+  
+  .card-text {
+    padding: 20px;
+  }
+  
+  .card-title {
+    margin-bottom: 5px;
+    color: #333;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .card-desc {
+    color: #777;
+    font-size: 14px;
+  }
+  h2 {
+    text-align: center;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .col {
+    flex: 0 0 33.33%;
+    padding: 10px;
+  }
   
