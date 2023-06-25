@@ -30,7 +30,7 @@ body{
     left:1100px;
 }
 
-.phone{
+.phone1{
     position: relative;
     color:white;
     bottom:158px;
@@ -115,4 +115,47 @@ body{
     font-size: 37px;
     width: 740px;
     bottom:40px;
+}
+
+.adress{
+    font-size: 49px;
+    position: relative;
+    left:4%;
+    color:#000000;
+    top:-90px;
+}
+
+iframe{
+    position: relative;
+    top:-79px;
+    left:4%;
+}
+
+.phone2{
+    position: relative;
+    font-size: 28px;
+    left:580px;
+    bottom:420px;
+}
+
+.vk{
+    position: relative;
+    background: url('https://img.icons8.com/?size=1x&id=dTVAvcXCW747&format=png');
+    background-repeat:no-repeat; 
+    background-size: 100%;
+    width:79px;
+    height:79px;
+    left:579px;
+    bottom:410px;
+}
+
+.tg{
+    position: relative;
+    background: url('https://img.icons8.com/?size=1x&id=l7PLniR__Vsn&format=png');
+    background-repeat:no-repeat; 
+    background-size: 100%;
+    width:79px;
+    height:79px;
+    left:659px;
+    bottom:489px;
 }
