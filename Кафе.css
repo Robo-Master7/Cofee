@@ -159,3 +159,137 @@ iframe{
     left:659px;
     bottom:489px;
 }
+
+.footer{
+    position: relative;
+    bottom:250px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+ }
+ .end{
+     text-align: center;
+     justify-content: center;
+     color: white;
+     font-size: 30px;
+ }
+ .sale{
+    position: relative;
+    bottom:150px;
+    justify-content: center;
+    text-align: center;
+    color: white;
+ }
+ .act{
+    position: relative;
+    bottom:150px;
+    display: flex;
+ 
+ }
+ .one{
+     display: flex;
+ }
+ .two{
+     display: flex;
+ 
+ }
+ .three{
+     display: flex;
+ }
+ 
+ .odin{
+     display: flex;
+     position: relative;
+     width: 480px;
+     height: 300px;
+     opacity:0.8 ;
+ }
+ .dwa{
+     
+     display: flex;
+     position: relative;
+     width: 480px;
+     height: 300px;
+     opacity:0.8 ;
+ }
+ .tri{
+     display: flex;
+     width: 480px;
+     height: 300px;
+     opacity:0.8 ;
+ }
+ .w{
+ 
+     display: flex;
+     color: white;
+     position	: absolute;
+     padding: 10px;
+     font-size: 60px;
+ }
+ .p{
+     position	: absolute;
+     color: white;
+     padding: 0px;
+     font-size: 40px;
+ }
+ .q{
+     position	: absolute;
+     color: white;
+     padding: 0px;
+     font-size: 40px;
+ }
+ .pred{
+    position: relative;
+    bottom:150px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+ }
+ 
+ .card {
+     display: block;
+     background-color: white;
+     text-decoration: none;
+   }
+   
+   .card-image img {
+     width: 100%;
+     height:300px;
+   }
+   
+   .card-text {
+     padding: 20px;
+   }
+   
+   .card-title {
+     margin-bottom: 5px;
+     color: #333;
+     font-weight: bold;
+     font-size: 18px;
+   }
+   
+   .card-desc {
+     color: #777;
+     font-size: 14px;
+   }
+   h2 {
+     text-align: center;
+   }
+   
+   .row {
+    position: relative;
+    bottom:150px;
+    left:148px;
+    display: flex;
+    flex-wrap: wrap;
+}
+   
+   .col {
+     flex: 0 0 33.33%;
+     padding: 10px;
+   }
+
+a{
+    text-decoration: none;
+}
+   
