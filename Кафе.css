@@ -293,3 +293,35 @@ a{
     text-decoration: none;
 }
    
+.form{
+    position: absolute;
+    background-color:#755b38;
+    padding: 55px;
+    bottom:270px;
+    left:580px;
+    z-index: 1;
+    visibility:hidden;
+}
+
+.zag{
+    font-size:25px;
+}
+
+.log{
+    margin-bottom: 6px;
+}
+
+.pass{
+    margin-bottom: 6px;
+}
+
+.zac{
+    position: relative;
+    left:280px;
+    background-color: #755b38;
+    color:white;
+    width:76px;
+    padding: 10px;
+    font-size:21px;
+    text-align: center;
+}
