@@ -293,25 +293,42 @@ a{
     text-decoration: none;
 }
    
-.form{
+.form1{
     position: absolute;
-    background-color:#755b38;
-    padding: 55px;
-    bottom:270px;
-    left:580px;
+    background-color:#755b38dc;
+    padding: 140px;
+    bottom:-1310px;
+    left:305px;
     z-index: 1;
-    visibility:hidden;
+    visibility: hidden;
+    border: 2.5px solid #ffffff;
+}
+
+.form2{
+    position: absolute;
+    background-color:#755b38dc;
+    padding: 140px;
+    bottom:-1310px;
+    left:305px;
+    z-index: 1;
+    visibility: hidden;
+    border: 2.5px solid #ffffff;
 }
 
 .zag{
-    font-size:25px;
+    position: relative;
+    bottom:10px;
+    font-size:37px;
+    padding: 30px;
 }
 
 .log{
+    padding: 10px;
     margin-bottom: 6px;
 }
 
 .pass{
+    padding: 10px;
     margin-bottom: 6px;
 }
 
