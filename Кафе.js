@@ -5,9 +5,19 @@ let passw = document.querySelector('.pass');
 let voi = document.querySelector('.zac');
 let but1 = document.querySelector('.bu1');
 let but2 = document.querySelector('.bu2');
+let kre1 = document.querySelector('.kre1');
+let kre2 = document.querySelector('.kre2');
 
 voi.addEventListener('click',()=>{
     form1.style.visibility='visible'
+})
+
+kre1.addEventListener('click',()=>{
+    form1.style.visibility='hidden'
+})
+
+kre2.addEventListener('click',()=>{
+    form2.style.visibility='hidden'
 })
 
 but1.addEventListener('click',()=>{

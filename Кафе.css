@@ -296,7 +296,7 @@ a{
 .form1{
     position: absolute;
     background-color:#755b38dc;
-    padding: 140px;
+    padding: 90px;
     bottom:-1310px;
     left:305px;
     z-index: 1;
@@ -307,7 +307,7 @@ a{
 .form2{
     position: absolute;
     background-color:#755b38dc;
-    padding: 140px;
+    padding: 90px;
     bottom:-1310px;
     left:305px;
     z-index: 1;
@@ -341,4 +341,26 @@ a{
     padding: 10px;
     font-size:21px;
     text-align: center;
+}
+
+.kre1{
+    position: relative;
+    background: url('https://img.icons8.com/?size=1x&id=8IcdPUaLXYoV&format=png');
+    background-repeat:no-repeat; 
+    background-size: 100%;
+    width:79px;
+    height:79px;
+    left:592px;
+    bottom:330px; 
+}
+
+.kre2{
+    position: relative;
+    background: url('https://img.icons8.com/?size=1x&id=8IcdPUaLXYoV&format=png');
+    background-repeat:no-repeat; 
+    background-size: 100%;
+    width:79px;
+    height:79px;
+    left:592px;
+    bottom:330px; 
 }
